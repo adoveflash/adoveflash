@@ -7,7 +7,5 @@ public class bj_10799 {
         for(int i=0; i<s.length(); i++){
             bracket.push(String.valueOf(s.charAt(i)));
         }
-
-
     }
 }
